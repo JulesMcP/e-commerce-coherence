@@ -1,2 +1,1 @@
-# e-commerce-coherence
-Bootcamp Challenge #13
+# E-commerce Back End Starter Code
