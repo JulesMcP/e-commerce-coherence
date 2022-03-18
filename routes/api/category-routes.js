@@ -51,7 +51,7 @@ router.get('/:id', (req, res) => {
           'product_name',
           'stock',
           'category_id'
-        ],
+        ]
       }
     ]
   })
