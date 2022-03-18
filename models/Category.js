@@ -1,6 +1,7 @@
 const { Model, DataTypes } = require('sequelize');
-const sequelize = require('../config/connection.js');
-const { truncate } = require('./Product.js');
+const sequelize = require('../config/connection');
+// below was in original starter code, but why? Is it necessary?
+//const { truncate } = require('./Product.js'); 
 
 class Category extends Model {}
 
